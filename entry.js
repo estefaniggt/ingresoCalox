@@ -16,3 +16,4 @@ function registro(){
     cajatrasera_registro.style.opacity = "0";
     cajatrasera_login.style.opacity = "1";
 }
+
